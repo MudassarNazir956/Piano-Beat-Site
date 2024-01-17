@@ -1,0 +1,37 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(74, 163, 125);
+}
+.container{
+    text-align: center;
+}
+#audio1{
+    display: none;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    font-size: 26px;
+    background-color: rgb(37, 136, 106);
+    color: rgb(255, 255, 255);
+    border: 1px solid  rgb(0, 0, 0);
+    border-radius: 20px;
+}
+h1{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+button:hover{
+    background-color: rgb(0, 82, 82);
+    border:1px solid  rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+footer{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 35px;
+    text-align: center;
+    font-style: italic;
+}
